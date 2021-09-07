@@ -1,6 +1,6 @@
 ## Greetings, Stranger!
 
-<img align="right" width="300" src="https://github.com/PedroBinotto/PedroBinotto/blob/main/kekw.webp" />
+<img align="right" width="250" style="margin: 1rem;" src="https://github.com/PedroBinotto/PedroBinotto/blob/main/kekw.webp" />
 
 ### Get to Know Me
 - 🎓 I.S. Student @ [Universidade Federal de Santa Catarina](https://ufsc.br)
