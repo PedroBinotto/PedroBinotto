@@ -8,9 +8,9 @@ I'm Pedro, from Florianópolis.
 
 ### Stuff I like
 
-- [_FOSS_](https://en.wikipedia.org/wiki/Free_and_open-source_software);
+- [_FOSS_](https://www.fsf.org/);
 - [_Efficient tooling_](https://neovim.io/);
-- [_Beer_](https://en.wikipedia.org/wiki/Beer);
+- [_The finer things in life_](https://en.wikipedia.org/wiki/Beer);
 
 ---
 
