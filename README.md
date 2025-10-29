@@ -4,8 +4,6 @@ I'm Pedro, from Florianópolis.
 
 ---
 
-<img align="right" width="250" style="margin: 1rem;" src="https://github.com/PedroBinotto/PedroBinotto/blob/main/kekw.webp" />
-
 ### Stuff I like
 
 - [_FOSS_](https://www.fsf.org/);
